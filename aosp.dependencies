@@ -1,0 +1,32 @@
+[
+  {
+    "repository": "device_nokia_sdm660-common",
+    "target_path": "device/nokia/sdm660-common",
+    "branch": "thirteen",
+    "remote": "pixel-devices"
+  },
+  {
+    "repository": "vendor_nokia_PL2",
+    "target_path": "vendor/nokia/PL2",
+    "branch": "thirteen",
+    "remote": "pixel-devices-blobs"
+  },
+  {
+    "repository": "vendor_nokia_sdm660-common",
+    "target_path": "vendor/nokia/sdm660-common",
+    "branch": "thirteen",
+    "remote": "pixel-devices-blobs"
+  },
+  {
+    "repository": "vendor_nokia_Camera",
+    "target_path": "vendor/nokia/Camera",
+    "branch": "thirteen",
+    "remote": "pixel-devices-blobs"
+  },
+  {
+    "repository": "kernel_nokia_sdm660",
+    "target_path": "kernel/nokia/sdm660",
+    "branch": "thirteen",
+    "remote": "pixel-devices"
+  }
+]
